@@ -1,0 +1,86 @@
+title: Plankboard
+original_author: Bunguini
+description: Replaces all skateboards with plank
+
+assets:
+
+  - name: remastered/obj/F_TT010_SORA.mdlx/-0.dds
+    method: copy
+    source:
+      - name: remastered/obj/F_TT010_SORA.mdlx/-0.dds
+  - name: remastered/obj/F_TT010_SORA.mdlx/-1.dds
+    method: copy
+    source:
+      - name: remastered/obj/F_TT010_SORA.mdlx/-1.dds
+  - name: remastered/obj/F_TT010_NM.mdlx/-0.dds
+    method: copy
+    source:
+      - name: remastered/obj/F_TT010_NM.mdlx/-0.dds
+  - name: remastered/obj/F_TT010_NM.mdlx/-1.dds
+    method: copy
+    source:
+      - name: remastered/obj/F_TT010_NM.mdlx/-1.dds
+  - name: remastered/obj/F_TT010_HE.mdlx/-0.dds
+    method: copy
+    source:
+      - name: remastered/obj/F_TT010_HE.mdlx/-0.dds
+  - name: remastered/obj/F_TT010_AL.mdlx/-0.dds
+    method: copy
+    source:
+      - name: remastered/obj/F_TT010_AL.mdlx/-0.dds
+  - name: remastered/obj/F_TT010_AL.mdlx/-1.dds
+    method: copy
+    source:
+      - name: remastered/obj/F_TT010_AL.mdlx/-1.dds
+  - name: remastered/obj/F_TT010_HE.mdlx/-1.dds
+    method: copy
+    source:
+      - name: remastered/obj/F_TT010_HE.mdlx/-1.dds
+  - name: remastered/obj/F_TT010_CA.mdlx/-0.dds
+    method: copy
+    source:
+      - name: remastered/obj/F_TT010_CA.mdlx/-0.dds
+  - name: remastered/obj/F_TT010_CA.mdlx/-1.dds
+    method: copy
+    source:
+      - name: remastered/obj/F_TT010_CA.mdlx/-1.dds
+  - name: remastered/obj/F_TT010_TR.mdlx/-0.dds
+    method: copy
+    source:
+      - name: remastered/obj/F_TT010_TR.mdlx/-0.dds
+  - name: remastered/obj/F_TT010_TR.mdlx/-1.dds
+    method: copy
+    source:
+      - name: remastered/obj/F_TT010_TR.mdlx/-1.dds
+  - name: remastered/obj/F_TT010.mdlx/-0.dds
+    method: copy
+    source:
+      - name: remastered/obj/F_TT010.mdlx/-0.dds
+  - name: obj/F_TT010_SORA.mdlx
+    method: copy
+    source:
+      - name: obj/F_TT010_SORA.mdlx
+  - name: obj/F_TT010_CA.mdlx
+    method: copy
+    source:
+      - name: obj/F_TT010_CA.mdlx
+  - name: obj/F_TT010_TR.mdlx
+    method: copy
+    source:
+      - name: obj/F_TT010_TR.mdlx
+  - name: obj/F_TT010_NM.mdlx
+    method: copy
+    source:
+      - name: obj/F_TT010_NM.mdlx
+  - name: obj/F_TT010_AL.mdlx
+    method: copy
+    source:
+      - name: obj/F_TT010_AL.mdlx
+  - name: obj/F_TT010_HE.mdlx
+    method: copy
+    source:
+      - name: obj/F_TT010_HE.mdlx
+  - name: obj/F_TT010_WI.mdlx
+    method: copy
+    source:
+      - name: obj/F_TT010_WI.mdlx
